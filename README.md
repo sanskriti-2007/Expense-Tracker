@@ -54,17 +54,23 @@ python tracker.py
 
 ### Example expense:
 Expense name: Coffee
+
 Amount: 150
+
 Category: Food
 
 ### Example category summary:
 Food: ₹400
+
 Education: ₹500
+
 Clothing: ₹800
 
 ### Example budget status:
 Budget: ₹5000
+
 Money Spent: ₹4200
+
 Money Remaining: ₹800
 
 ## What I Learned
